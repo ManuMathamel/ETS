@@ -3,6 +3,7 @@ package practicaETs;
 public class Grados {
 	
 	private double gr;
+	private int area;
 	// constructor 
 	 public Grados(double grados){
 		 this.gr = grados;
